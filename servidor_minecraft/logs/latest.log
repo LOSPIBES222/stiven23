@@ -1,0 +1,16 @@
+[08Nov2024 00:03:18.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TAJIR lost connection: Timed out
+[08Nov2024 00:03:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TAJIR left the game
+[08Nov2024 00:03:18.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midab lost connection: Timed out
+[08Nov2024 00:03:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midab left the game
+[08Nov2024 00:03:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Nov2024 00:03:46.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Nov2024 00:03:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Nov2024 00:03:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Nov2024 00:03:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Nov2024 00:03:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Nov2024 00:03:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Nov2024 00:03:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Nov2024 00:03:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Nov2024 00:03:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Nov2024 00:03:48.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Nov2024 00:03:48.543] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
